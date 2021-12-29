@@ -19,7 +19,6 @@ do {
     c = prompt("Введите число, которое больше 100:,");
 } while (c <= 100 && c);
 // таблица умножения на 56
-let num;
 let multiplyNum = 56;
 let n = prompt("Какое число вы хотите умножить на 56?", 1);
 let multiply = n * multiplyNum;
